@@ -1,0 +1,8 @@
+body{margin: 0;}
+header{background-color: greenyellow; margin:0; height: 150px;}
+nav div{float: left; margin: 20px;}
+ul{margin: 20px; list-style: none; float: right;}
+li{display: inline-block; margin-right: 15px;}
+aside{background-color: yellow; height: 400px; }
+section{background-color: antiquewhite; ; height: 400px; width: 70%; float: left;}
+footer{background-color: gray; height: 200px;}
