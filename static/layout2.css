@@ -1,0 +1,16 @@
+body{margin: 0;}
+header{display: flex; flex-direction: row; justify-content: space-between; background-color:#393838; color: #f5f5f7; margin:0; height: 65px;}
+header a{color:#f5f5f7;}
+header .login{padding: 14px;}
+nav{display: flex;}
+nav .logo{ padding-left: 20px;}
+nav ul{ list-style: none; display: flex;}
+nav ul li{ margin-right: 15px;}
+section{height: 550px; padding: 30px 75px;}
+section .content{background-color: #e8e8e8; height: 100%; padding: 0 30px;}
+section .content .inner{display: flex; flex-direction: row; justify-content: space-between;}
+section .content .inner .P1,
+section .content .inner .P2{ width: 300px; display: flex; flex-direction: column; background-color: black;}
+section .content .inner .P1{height: 340px;}
+section .content .inner .P2{height: 250px;}
+footer{background-color: #dedee0; height: 100px; clear: both;}
